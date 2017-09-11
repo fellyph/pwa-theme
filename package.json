@@ -1,0 +1,27 @@
+{
+  "name": "pwa-theme",
+  "version": "1.0.0",
+  "description": "PWA base theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fellyph/pwa-theme.git"
+  },
+  "keywords": [
+    "wordpres",
+    "pwa",
+    "webpack"
+  ],
+  "author": "fellyph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fellyph/pwa-theme/issues"
+  },
+  "homepage": "https://github.com/fellyph/pwa-theme#readme",
+  "dependencies": {
+    "bulma": "^0.5.1"
+  }
+}
