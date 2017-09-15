@@ -23,5 +23,8 @@
   "homepage": "https://github.com/fellyph/pwa-theme#readme",
   "dependencies": {
     "bulma": "^0.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.6"
   }
 }
