@@ -1,0 +1,22 @@
+{
+    "short_name" : "PWA Theme",
+    "name" : "WordPress Theme PWA",
+    "icons" : [
+        {
+            "src": "address",
+            "type": "",
+            "sizes": "48x48"
+        },
+        {
+            "src": "address",
+            "type": "",
+            "sizes": "96x96"
+        },
+        {
+            "src": "address",
+            "type": "",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "index.html?launcher=true"
+}
