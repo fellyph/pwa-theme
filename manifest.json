@@ -1,24 +1,22 @@
 {
     "short_name" : "PWA Theme",
     "name" : "WordPress Theme PWA",
-    "icons" : [
-        {
-            "src": "address",
-            "type": "",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#663399",
+    "icons": [{
+            "src": "icons/homescreen48.png",
+            "type": "image/png",
             "sizes": "48x48"
         },
         {
-            "src": "address",
-            "type": "",
+            "src": "icons/homescreen96.png",
+            "type": "image/png",
             "sizes": "96x96"
         },
         {
-            "src": "address",
-            "type": "",
+            "src": "icons/homescreen192.png",
+            "type": "image/png",
             "sizes": "192x192"
-        }
-    ],
-    "start_url": "index.html?launcher=true",
-    "display": "standalone",
-    "theme_color": "#663399"
+        }]
 }
